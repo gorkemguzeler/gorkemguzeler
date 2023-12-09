@@ -1,6 +1,6 @@
 ### Machine learning engineer
 
-I am pursuing my master's degree at TU Munich and I'm a working student at Bosch Corporate Research. 
+I am pursuing my master's degree at Technical University of Munich and I'm a working student at Bosch Research. 
 
 - My primary interest lies in the deep learning and computer vision fields. 
 - Proficient in Python, with expertise in utilizing PyTorch.
